@@ -1,8 +1,8 @@
 
 build: 
-	echo "BUILD OK"
+	@echo "BUILD OK"
 
 test:
-	echo "TEST OK"	
+	@echo "TEST OK"	
 
 .PHONY: all clean build test 
