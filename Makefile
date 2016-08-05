@@ -1,0 +1,4 @@
+build: 
+	uptime
+test:
+	uptime
