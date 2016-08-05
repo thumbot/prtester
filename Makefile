@@ -1,8 +1,8 @@
 all:
-	uptime %s && echo "OK"
+	echo "OK"
 build:
-	uptime %s && echo "OK"
+	echo "BUILD OK"
 test:
-	uptime %s && echo "OK"
+	echo "TEST OK"
 clean:
 	uptime
