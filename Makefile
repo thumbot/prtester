@@ -6,5 +6,3 @@ test:
 	uptime %s && echo "OK"
 clean:
 	uptime
-
-.PHONY: all clean build test 
