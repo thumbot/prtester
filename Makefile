@@ -3,7 +3,3 @@ build:
 
 test:
 	echo "make test OK"	
-
-
-clean:
-	echo "whaat?"
