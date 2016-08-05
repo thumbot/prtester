@@ -1,4 +1,5 @@
 build: 
-	uptime
+	echo "make build OK"
+
 test:
-	uptime
+	echo "make test OK"	
