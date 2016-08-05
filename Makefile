@@ -1,6 +1,6 @@
 
-build: $(obj)
+build:
 	uptime
-test: $(obj)
+test:
 	uptime
 .PHONY: all clean build test 
