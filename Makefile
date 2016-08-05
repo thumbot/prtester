@@ -1,8 +1,6 @@
 
 build: $(obj)
-	@echo "BUILD OK"
-
+	uptime
 test: $(obj)
-	@echo "TEST OK"	
-
+	uptime
 .PHONY: all clean build test 
