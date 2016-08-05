@@ -1,8 +1,8 @@
 
-build: 
+build: $(obj)
 	@echo "BUILD OK"
 
-test:
+test: $(obj)
 	@echo "TEST OK"	
 
 .PHONY: all clean build test 
