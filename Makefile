@@ -1,5 +1,5 @@
 build: 
-	echo "make build OK"
+	echo "BUILD OK"
 
 test:
-	echo "make test OK"	
+	echo "TEST OK"	
